@@ -7,15 +7,22 @@ This project demonstrates how SQL is used for **data cleaning, exploratory analy
 ## 📂 Repository Structure
 
 ## 📊 Key Insights
-- Cleaned missing values for quantity, price, and discount.
-- Added **Profit Margin, Total Revenue, Discount Percentage, and Customer Segments**.
-- Extracted **best-selling products, top customers, and sales trends**.
-- Created **Power BI-ready queries for visualization**.
+📌 Customer Segments & Profitability
 
-## 🚀 How to Use
-1. **Download the SQL files** and execute them in SQL Server.
-2. **Connect cleaned data to Power BI** and use the insights for business decisions.
-3. **Modify queries** based on your dataset.
+Identified the most profitable customer segments.
+Analyzed purchasing trends to optimize sales strategies.
+📌 Best-Selling Products & Revenue Drivers
+
+Extracted top-performing products and categories.
+Recommended stock optimization based on sales trends.
+📌 Sales & Discount Impact
+
+Examined how discounts impact total revenue and profit.
+Suggested better pricing strategies to maximize profit.
+📌 Power BI-Ready Data
+
+Cleaned and structured data for seamless Power BI integration.
+Created SQL queries optimized for Power BI visualization.
 
 ---
 🔗 **Author:** [Mohamed Ashraf Mohamed]  
